@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/3913126106_406869754_223132457.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/3876006497_1782924478_1988880948.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/3876006497_665383175_288906943.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/1478046653_1782924478_2469856444.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/1478046653_3956727989_615165398.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/1478046653_60119_653231578.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/1478046653_1782924478_3392937173.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/normaldistribution/480p15/partial_movie_files/PDFtoCDFtoPPFScene/1478046653_1782924478_952179556.mp4'

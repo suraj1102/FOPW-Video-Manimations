@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/video/1080p60/partial_movie_files/Gaussian/1124468253_182235424_714886488.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/video/1080p60/partial_movie_files/Gaussian/3580305122_1909587417_3675622330.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/video/1080p60/partial_movie_files/Gaussian/1008140719_3388737029_732949483.mp4'
+file 'file:/Users/suraj/Documents/Coding/manim-test/media/videos/video/1080p60/partial_movie_files/Gaussian/3049942861_1849351856_4128506167.mp4'
